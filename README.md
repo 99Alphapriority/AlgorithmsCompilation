@@ -1,8 +1,4 @@
 # AlgorithmsCompilation
-source code for all the algorithms I have learned.
+source code for all the algorithms I have learned and leetcode questions solved with their explanation.
 
-Using the book, Introduction to Algorithms 3rd Edition
-
-1.  Sorting Algorithms
-  1.1.  Insertion Sort
-  1.2.  Merge Sort
+ Keeping a record of the explanations would help in going over the question faster and improve my documentation skills. 
