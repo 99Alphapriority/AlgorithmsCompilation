@@ -1,3 +1,5 @@
+link: https://leetcode.com/problems/two-sum/description/
+
 1. Create two variables idx and idx2.
 2. idx is used to traverse all the elements of the given array from index 0 to end of the array.
 3. idx2 is used to traverse all the elements right of idx.
