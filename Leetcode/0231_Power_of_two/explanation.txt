@@ -1,0 +1,16 @@
+link: https://leetcode.com/problems/power-of-two/
+
+1. If the given number is less than equal to 0, return FALSE as any number that is power of 2 cannot be 0 or negative.
+2. If the given number AND number - 1 is equal to 0 return TRUE else return FALSE.
+
+	observation:
+	
+		2^4:16 --> 00010000	2^4:16 --> 00010000
+		    17 --> 00010001	    15 --> 00001111
+			&			&  
+			   00010000		   00000000
+
+		2^3:8 --> 00001000
+		    7 --> 00000111
+			&
+			  00000000
