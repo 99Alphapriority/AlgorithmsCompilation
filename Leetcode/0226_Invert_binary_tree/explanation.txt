@@ -1,0 +1,15 @@
+link: https://leetcode.com/problems/invert-binary-tree/description/
+
+1. Swap the left child and right child node.
+	swap(root->left, root->right);
+
+	2		 2	
+       / \	-->	/ \
+      1   3	       3   1
+     / \ / \	      / \ / \
+    4  6 9  7	     9  7 4  6
+
+2. Recursice call the invert function on the left child and then right child.
+	invertTree(root->left);
+	invertTree(root->right);
+3. Return the root node.
