@@ -1,0 +1,14 @@
+link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
+1. It is guaranteed that the given nodes exist in the BST.
+2. Check if the value of the given nodes is less than the value of the current tree node. This means that the given nodes
+   exist in the left subtree.
+	if((p->val < root->val) && (q->val < root->val))
+		return lowestCommonAncestor(root->left, p, q);
+3. Check if the value of the given nodes is greater than the value of the current tree node. This means that the given nodes
+   exist in the right subtrree.
+	if((p->val > root->val) && (q->val > root->val))
+		return lowestCommonAncestor(root->right, p, q);
+4. If the above two conditions are not satisfied this means that either the given nodes exist in seperate trees or one of the 
+   node is equal to the current root node. Return the root node. 
+	return root;
