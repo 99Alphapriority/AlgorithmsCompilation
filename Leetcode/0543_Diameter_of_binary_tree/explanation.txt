@@ -1,0 +1,12 @@
+link: https://leetcode.com/problems/diameter-of-binary-tree/description/
+
+1. Use Depth first approach to compute the height of left child tree and right child tree.
+2. Base case check: if node == NULL, return 0. The height of that node is 0.
+3. Compute the height of the left tree recursively.
+	dfs(root->left);
+4. Compute the height of the right tree recursively.
+	dfs(root->right);
+5. Compute the diameter for the node as follows:
+	diameter = max(diameter, height of left tree + height of right tree);
+6. Return the height of the tree from the perspective of that node.
+	return 1 + max(left, right);
