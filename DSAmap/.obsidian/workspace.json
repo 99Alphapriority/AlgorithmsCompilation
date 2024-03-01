@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "def273e376705ce7",
+        "id": "fc5bfed123a3a7aa",
         "type": "tabs",
         "children": [
           {
-            "id": "9ebc98026fbb6d1c",
+            "id": "050f3a31e1edfd8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/1148. Count good nodes in binary tree.md",
+                "file": "Leetcode/ExplanationDiagrams/98. Validate binary search tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e56a052bdc668985",
+            "id": "39b89ff69e58670a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -151,8 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e56a052bdc668985",
+  "active": "39b89ff69e58670a",
   "lastOpenFiles": [
+    "Leetcode/ExplanationDiagrams/98. Validate binary search tree.md",
+    "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
+    "Data Structures/Binary search tree.md",
     "Leetcode/1148. Count good nodes in binary tree.md",
     "Leetcode/102. Binary tree level order traversal.md",
     "Leetcode/104. Maximum depth of binary tree.md",
@@ -176,9 +179,6 @@
     "Leetcode/226. Invert binary tree.md",
     "Leetcode/206. Reverse linked list.md",
     "Leetcode/191. Number of 1 bits.md",
-    "Leetcode/155. Min stack.md",
-    "Leetcode/153. Find minimum in rotated sorted array.md",
-    "Leetcode/150. Evaluate reverse polish notation.md",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
     "Leetcode/ExplanationDiagrams",
@@ -187,7 +187,6 @@
     "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/explanation.txt",
     "Leetcode/0981_Time_based_key_value_store/time_based_key_value_store.cpp",
     "Leetcode/0981_Time_based_key_value_store/explanation.txt",
-    "Leetcode/0875_koko_eating_bananas/explanation.txt",
-    "Leetcode/0875_koko_eating_bananas/koko_eating_bananas.cpp"
+    "Leetcode/0875_koko_eating_bananas/explanation.txt"
   ]
 }
