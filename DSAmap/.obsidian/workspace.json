@@ -11,11 +11,24 @@
             "id": "9ebc98026fbb6d1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/1148. Count good nodes in binary tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e56a052bdc668985",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 418.5
   },
   "right": {
     "id": "eaf2c58443685d41",
@@ -138,8 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ebc98026fbb6d1c",
+  "active": "e56a052bdc668985",
   "lastOpenFiles": [
+    "Leetcode/1148. Count good nodes in binary tree.md",
+    "Leetcode/102. Binary tree level order traversal.md",
+    "Leetcode/104. Maximum depth of binary tree.md",
     "Leetcode/199. Binary tree right side view.md",
     "Leetcode/1. Two sum.md",
     "Data Structures/Array.md",
@@ -163,9 +179,6 @@
     "Leetcode/155. Min stack.md",
     "Leetcode/153. Find minimum in rotated sorted array.md",
     "Leetcode/150. Evaluate reverse polish notation.md",
-    "Leetcode/143. Reorder list.md",
-    "Leetcode/141. Linked list cycle.md",
-    "Leetcode/138. Copy list with random pointer.md",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
     "Leetcode/ExplanationDiagrams",
