@@ -18,7 +18,7 @@
       "query": "tag:#easy  ",
       "color": {
         "a": 1,
-        "rgb": 65505
+        "rgb": 327424
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 0.196695963541667,
   "linkDistance": 30,
-  "scale": 0.3967776883053635,
+  "scale": 0.2370781123891839,
   "close": true
 }
