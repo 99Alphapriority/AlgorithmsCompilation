@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/ExplanationDiagrams/98. Validate binary search tree.md",
+                "file": "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "39b89ff69e58670a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md"
+              }
             }
           }
         ]
@@ -151,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b89ff69e58670a",
+  "active": "050f3a31e1edfd8e",
   "lastOpenFiles": [
     "Leetcode/ExplanationDiagrams/98. Validate binary search tree.md",
+    "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md",
+    "Leetcode/102. Binary tree level order traversal.md",
     "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
     "Data Structures/Binary search tree.md",
     "Leetcode/1148. Count good nodes in binary tree.md",
-    "Leetcode/102. Binary tree level order traversal.md",
     "Leetcode/104. Maximum depth of binary tree.md",
     "Leetcode/199. Binary tree right side view.md",
     "Leetcode/1. Two sum.md",
