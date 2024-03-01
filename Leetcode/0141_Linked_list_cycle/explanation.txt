@@ -1,5 +1,0 @@
-link: https://leetcode.com/problems/linked-list-cycle/
-
-1. Iterate throught the given linked list. Change the value of each node visited to INT_MAX.
-2. Check if node value if INT_MAX, this means that we have visited that node already and there is a loop in the linked list. 
-

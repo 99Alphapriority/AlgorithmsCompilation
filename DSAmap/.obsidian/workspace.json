@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "032bb7d9070b146f",
+    "type": "split",
+    "children": [
+      {
+        "id": "111797a37287743b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc84cb528eb7e46a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/22. Generate parantheses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eaa0c9e6fc2d00f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5f2ec630af22d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2c6fdc17cc16b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7813abba81d3b17c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b2182de51f2a7bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eaf2c58443685d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b35bcad3bd7814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a048b5095ab1d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Leetcode/22. Generate parantheses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "443cae8b2a80334e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Leetcode/22. Generate parantheses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e9cd949eee1462",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7942a17450dbdd2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Leetcode/22. Generate parantheses.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc84cb528eb7e46a",
+  "lastOpenFiles": [
+    "Leetcode/2095. Delete the middle node of a linked list.md",
+    "Leetcode/981. Time based key value store.md",
+    "Leetcode/875. Koko eating bananas.md",
+    "Leetcode/853. Car fleet.md",
+    "Leetcode/739. Daily temperatures.md",
+    "Leetcode/704. Binary Search.md",
+    "Leetcode/572. Subtree of another tree.md",
+    "Leetcode/543. Diameter of binary tree.md",
+    "Leetcode/347. Top K frequent elements.md",
+    "Data Structures/Heap.md",
+    "Leetcode/342. Power of four.md",
+    "Leetcode/287. Find the duplicate number.md",
+    "Leetcode/238. Product of array except self.md",
+    "Leetcode/235. Lowest common ancestor of a binary search tree.md",
+    "Leetcode/231. Power of two.md",
+    "Leetcode/226. Invert binary tree.md",
+    "Leetcode/206. Reverse linked list.md",
+    "Leetcode/191. Number of 1 bits.md",
+    "Algorithms/Bit manipulation.md",
+    "Leetcode/155. Min stack.md",
+    "Leetcode/153. Find minimum in rotated sorted array.md",
+    "Leetcode/150. Evaluate reverse polish notation.md",
+    "Leetcode/143. Reorder list.md",
+    "Leetcode/141. Linked list cycle.md",
+    "Leetcode/138. Copy list with random pointer.md",
+    "Leetcode/128. Longest consecutive sequence.md",
+    "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
+    "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
+    "Leetcode/ExplanationDiagrams",
+    "Leetcode/untitled folder",
+    "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/delete_the_middle_node_of_a_linked_list.cpp",
+    "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/explanation.txt",
+    "Leetcode/0981_Time_based_key_value_store/time_based_key_value_store.cpp",
+    "Leetcode/0981_Time_based_key_value_store/explanation.txt",
+    "Leetcode/0875_koko_eating_bananas/explanation.txt",
+    "Leetcode/0875_koko_eating_bananas/koko_eating_bananas.cpp"
+  ]
+}

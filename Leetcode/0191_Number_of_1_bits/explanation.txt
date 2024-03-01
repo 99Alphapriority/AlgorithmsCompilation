@@ -1,7 +1,0 @@
-link: https://leetcode.com/problems/number-of-1-bits/
-
-1. Run a FOR loop from 0 to 31 to iterate through all the bits in an integer.
-	1.1. Compute if the given number AND 1 equals to 1. If TRUE increment the count value.
-	1.2. Right shift the given number by 1.
-		n >>= 1;
-2. Return the count.

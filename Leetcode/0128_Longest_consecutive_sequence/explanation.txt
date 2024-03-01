@@ -1,7 +1,0 @@
-link: https://leetcode.com/problems/longest-consecutive-sequence/
-
-1. Create a Map. Go throught the given array and populate the map using nums[i] as the key and incrementing the value everytime that key is encountered.
-2. Iterate through the map. Check if the key of the next item in the map is current key + 1 and the value is greater than or equal to 1.
-	2.1.	If true increment the count variable and check if it is the largest consecutive sequence.
-	2.2.	If false, reset the count variable to 0.
-3. Return max + 1. +1 for accounting the starting key itself.

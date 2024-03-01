@@ -1,3 +1,0 @@
-link: https://leetcode.com/problems/binary-search/
-
-1. Implement binary search algorith.
