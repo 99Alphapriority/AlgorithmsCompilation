@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "111797a37287743b",
+        "id": "def273e376705ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc84cb528eb7e46a",
+            "id": "9ebc98026fbb6d1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/22. Generate parantheses.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/22. Generate parantheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/22. Generate parantheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/22. Generate parantheses.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc84cb528eb7e46a",
+  "active": "9ebc98026fbb6d1c",
   "lastOpenFiles": [
+    "Leetcode/199. Binary tree right side view.md",
+    "Leetcode/1. Two sum.md",
+    "Data Structures/Array.md",
     "Leetcode/2095. Delete the middle node of a linked list.md",
     "Leetcode/981. Time based key value store.md",
     "Leetcode/875. Koko eating bananas.md",
@@ -157,7 +152,6 @@
     "Leetcode/572. Subtree of another tree.md",
     "Leetcode/543. Diameter of binary tree.md",
     "Leetcode/347. Top K frequent elements.md",
-    "Data Structures/Heap.md",
     "Leetcode/342. Power of four.md",
     "Leetcode/287. Find the duplicate number.md",
     "Leetcode/238. Product of array except self.md",
@@ -166,14 +160,12 @@
     "Leetcode/226. Invert binary tree.md",
     "Leetcode/206. Reverse linked list.md",
     "Leetcode/191. Number of 1 bits.md",
-    "Algorithms/Bit manipulation.md",
     "Leetcode/155. Min stack.md",
     "Leetcode/153. Find minimum in rotated sorted array.md",
     "Leetcode/150. Evaluate reverse polish notation.md",
     "Leetcode/143. Reorder list.md",
     "Leetcode/141. Linked list cycle.md",
     "Leetcode/138. Copy list with random pointer.md",
-    "Leetcode/128. Longest consecutive sequence.md",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
     "Leetcode/ExplanationDiagrams",
