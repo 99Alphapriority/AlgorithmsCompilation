@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fc5bfed123a3a7aa",
+        "id": "214ab5136f08fabe",
         "type": "tabs",
         "children": [
           {
-            "id": "016a1b59eb41b3c3",
+            "id": "477159cdc903cd5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "016a1b59eb41b3c3",
+  "active": "477159cdc903cd5a",
   "lastOpenFiles": [
+    "Leetcode/78. Subsets.md",
+    "Leetcode/22. Generate parantheses.md",
+    "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/144. Binary tree preorder traversal.md",
     "Leetcode/98. Validate binary search tree.md",
     "Leetcode/105. Construct binary tree from preorder and inorder traversal.md",
@@ -149,7 +152,6 @@
     "Leetcode/ExplanationDiagrams/144. Binary tree preorder traversal.md",
     "Leetcode/ExplanationDiagrams/98. Validate binary search tree.md",
     "Leetcode/543. Diameter of binary tree.md",
-    "Leetcode/22. Generate parantheses.md",
     "Leetcode/36. Valid sudoku.md",
     "Leetcode/141. Linked list cycle.md",
     "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md",
@@ -166,15 +168,12 @@
     "Leetcode/981. Time based key value store.md",
     "Leetcode/875. Koko eating bananas.md",
     "Leetcode/853. Car fleet.md",
-    "Leetcode/739. Daily temperatures.md",
-    "Leetcode/704. Binary Search.md",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
     "Leetcode/ExplanationDiagrams",
     "Leetcode/untitled folder",
     "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/delete_the_middle_node_of_a_linked_list.cpp",
     "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/explanation.txt",
-    "Leetcode/0981_Time_based_key_value_store/time_based_key_value_store.cpp",
-    "Leetcode/0981_Time_based_key_value_store/explanation.txt"
+    "Leetcode/0981_Time_based_key_value_store/time_based_key_value_store.cpp"
   ]
 }
