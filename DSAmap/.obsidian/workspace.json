@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/46. Permutations.md",
+                "file": "Leetcode/40. Combination sum 2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d663cf10e65a6501",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/46. Permutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/46. Permutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/46. Permutations.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "477159cdc903cd5a",
+  "active": "d663cf10e65a6501",
   "lastOpenFiles": [
+    "Leetcode/40. Combination sum 2.md",
     "Leetcode/46. Permutations.md",
     "Leetcode/90. Subsets 2.md",
     "Leetcode/78. Subsets.md",
@@ -177,7 +183,6 @@
     "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md",
     "Leetcode/153. Find minimum in rotated sorted array.md",
     "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
-    "Data Structures/Binary search tree.md",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
     "Leetcode/ExplanationDiagrams",
