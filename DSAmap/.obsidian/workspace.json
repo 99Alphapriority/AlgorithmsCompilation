@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/39. Combination sum.md",
+                "file": "Leetcode/46. Permutations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/39. Combination sum.md",
+                "file": "Leetcode/46. Permutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/39. Combination sum.md",
+                "file": "Leetcode/46. Permutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/39. Combination sum.md"
+                "file": "Leetcode/46. Permutations.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "477159cdc903cd5a",
   "lastOpenFiles": [
+    "Leetcode/46. Permutations.md",
+    "Leetcode/39. Combination sum.md",
     "Leetcode/128. Longest consecutive sequence.md",
     "Leetcode/110. Balanced binary tree.md",
     "Leetcode/105. Construct binary tree from preorder and inorder traversal.md",
@@ -156,7 +158,6 @@
     "Leetcode/100. Same tree.md",
     "Leetcode/98. Validate binary search tree.md",
     "Leetcode/78. Subsets.md",
-    "Leetcode/39. Combination sum.md",
     "Leetcode/36. Valid sudoku.md",
     "Data Structures/Binary Tree.md",
     "Leetcode/22. Generate parantheses.md",
@@ -177,7 +178,6 @@
     "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
     "Data Structures/Binary search tree.md",
     "Leetcode/1148. Count good nodes in binary tree.md",
-    "Leetcode/199. Binary tree right side view.md",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
     "Leetcode/ExplanationDiagrams",
