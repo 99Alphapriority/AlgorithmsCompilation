@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f820c2aa822f5e08",
+            "id": "3d334e6cf3fb64a6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#easy  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "right": {
     "id": "eaf2c58443685d41",
@@ -138,8 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f820c2aa822f5e08",
+  "active": "3d334e6cf3fb64a6",
   "lastOpenFiles": [
+    "Leetcode/133. Clone graph.md",
+    "Data Structures/Graph.md",
     "Leetcode/200. Number of islands.md",
     "Leetcode/46. Permutations.md",
     "Leetcode/90. Subsets 2.md",
@@ -167,8 +171,6 @@
     "Leetcode/230. Kth smallest element in a BST.md",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
     "Data Structures/Tree.md",
-    "Leetcode/ExplanationDiagrams/144. Binary tree preorder traversal.md",
-    "Leetcode/ExplanationDiagrams/98. Validate binary search tree.md",
     "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
