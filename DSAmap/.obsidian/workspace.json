@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "214ab5136f08fabe",
+        "id": "fe2a4a9bd557d434",
         "type": "tabs",
         "children": [
           {
-            "id": "477159cdc903cd5a",
+            "id": "2abd77c99789dd43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/40. Combination sum 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d663cf10e65a6501",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,11 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d663cf10e65a6501",
+  "active": "2abd77c99789dd43",
   "lastOpenFiles": [
-    "Leetcode/40. Combination sum 2.md",
-    "Leetcode/46. Permutations.md",
+    "Leetcode/79. Word search.md",
     "Leetcode/90. Subsets 2.md",
+    "Leetcode/36. Valid sudoku.md",
+    "Data Structures/Array.md",
+    "Leetcode/46. Permutations.md",
+    "Leetcode/100. Same tree.md",
+    "Leetcode/40. Combination sum 2.md",
     "Leetcode/78. Subsets.md",
     "Leetcode/39. Combination sum.md",
     "Leetcode/128. Longest consecutive sequence.md",
@@ -163,9 +154,7 @@
     "Leetcode/105. Construct binary tree from preorder and inorder traversal.md",
     "Leetcode/104. Maximum depth of binary tree.md",
     "Leetcode/102. Binary tree level order traversal.md",
-    "Leetcode/100. Same tree.md",
     "Leetcode/98. Validate binary search tree.md",
-    "Leetcode/36. Valid sudoku.md",
     "Data Structures/Binary Tree.md",
     "Leetcode/22. Generate parantheses.md",
     "Leetcode/2. Add two numbers.md",
@@ -180,8 +169,6 @@
     "Leetcode/ExplanationDiagrams/98. Validate binary search tree.md",
     "Leetcode/543. Diameter of binary tree.md",
     "Leetcode/141. Linked list cycle.md",
-    "Leetcode/ExplanationDiagrams/230. Kth smallest element in a BST.md",
-    "Leetcode/153. Find minimum in rotated sorted array.md",
     "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
