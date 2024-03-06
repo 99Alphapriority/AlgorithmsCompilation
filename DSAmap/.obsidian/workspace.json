@@ -11,7 +11,7 @@
             "id": "f820c2aa822f5e08",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,11 +140,11 @@
   },
   "active": "f820c2aa822f5e08",
   "lastOpenFiles": [
+    "Leetcode/200. Number of islands.md",
     "Leetcode/46. Permutations.md",
     "Leetcode/90. Subsets 2.md",
     "Leetcode/100. Same tree.md",
     "Leetcode/36. Valid sudoku.md",
-    "Leetcode/Untitled.md",
     "Leetcode/102. Binary tree level order traversal.md",
     "Leetcode/131. Palindrome partioning.md",
     "Leetcode/79. Word search.md",
