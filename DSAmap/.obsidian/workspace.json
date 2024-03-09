@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "966595d045c07e57",
+        "id": "1228a586ec9b166a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d334e6cf3fb64a6",
+            "id": "c5296f76008cc3fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/695. Max area of island.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8432fecb8c7ff58e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,9 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8432fecb8c7ff58e",
+  "active": "c5296f76008cc3fc",
   "lastOpenFiles": [
     "Leetcode/695. Max area of island.md",
+    "Leetcode/417. Pacific Atlantic water flow.md",
     "Leetcode/133. Clone graph.md",
     "Data Structures/Graph.md",
     "Leetcode/200. Number of islands.md",
@@ -180,7 +168,6 @@
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/144. Binary tree preorder traversal.md",
-    "Leetcode/230. Kth smallest element in a BST.md",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
     "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
