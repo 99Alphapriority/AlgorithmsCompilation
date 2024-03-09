@@ -11,11 +11,24 @@
             "id": "3d334e6cf3fb64a6",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/695. Max area of island.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8432fecb8c7ff58e",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,8 +57,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#easy  ",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "right": {
     "id": "eaf2c58443685d41",
@@ -140,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d334e6cf3fb64a6",
+  "active": "8432fecb8c7ff58e",
   "lastOpenFiles": [
+    "Leetcode/695. Max area of island.md",
     "Leetcode/133. Clone graph.md",
     "Data Structures/Graph.md",
     "Leetcode/200. Number of islands.md",
@@ -170,7 +182,6 @@
     "Leetcode/144. Binary tree preorder traversal.md",
     "Leetcode/230. Kth smallest element in a BST.md",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
-    "Data Structures/Tree.md",
     "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
     "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
