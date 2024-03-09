@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "032bb7d9070b146f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b77271119f22ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa1694615863278",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eaa0c9e6fc2d00f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5f2ec630af22d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2c6fdc17cc16b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7813abba81d3b17c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b2182de51f2a7bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 459.5
+  },
+  "right": {
+    "id": "eaf2c58443685d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b35bcad3bd7814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a048b5095ab1d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "443cae8b2a80334e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e9cd949eee1462",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7942a17450dbdd2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dfa1694615863278",
+  "lastOpenFiles": [
+    "Leetcode/994. Rotting oranges.md",
+    "Leetcode/130. Surrounded regions.md",
+    "Leetcode/695. Max area of island.md",
+    "Leetcode/417. Pacific Atlantic water flow.md",
+    "Leetcode/133. Clone graph.md",
+    "Data Structures/Graph.md",
+    "Leetcode/200. Number of islands.md",
+    "Leetcode/46. Permutations.md",
+    "Leetcode/90. Subsets 2.md",
+    "Leetcode/100. Same tree.md",
+    "Leetcode/36. Valid sudoku.md",
+    "Leetcode/102. Binary tree level order traversal.md",
+    "Leetcode/131. Palindrome partioning.md",
+    "Leetcode/79. Word search.md",
+    "Data Structures/Array.md",
+    "Leetcode/40. Combination sum 2.md",
+    "Leetcode/78. Subsets.md",
+    "Leetcode/39. Combination sum.md",
+    "Leetcode/128. Longest consecutive sequence.md",
+    "Leetcode/110. Balanced binary tree.md",
+    "Leetcode/105. Construct binary tree from preorder and inorder traversal.md",
+    "Leetcode/104. Maximum depth of binary tree.md",
+    "Leetcode/98. Validate binary search tree.md",
+    "Data Structures/Binary Tree.md",
+    "Leetcode/22. Generate parantheses.md",
+    "Leetcode/2. Add two numbers.md",
+    "Leetcode/ExplanationDiagrams/combination_sum.pdf",
+    "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
+    "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
+    "Leetcode/ExplanationDiagrams/validate_binary_tree.pdf",
+    "Leetcode/ExplanationDiagrams/recurrsiveFlowDiagram.pdf",
+    "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
+    "Leetcode/ExplanationDiagrams",
+    "Leetcode/untitled folder",
+    "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/delete_the_middle_node_of_a_linked_list.cpp",
+    "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/explanation.txt"
+  ]
+}
