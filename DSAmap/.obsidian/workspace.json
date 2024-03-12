@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d70e6e365cff2a33",
+        "id": "6663d045f34de07e",
         "type": "tabs",
         "children": [
           {
-            "id": "c88f4463f022c9c9",
+            "id": "e80e17d8d040fe74",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,9 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c88f4463f022c9c9",
+  "active": "e80e17d8d040fe74",
   "lastOpenFiles": [
+    "Leetcode/210. Course schedule 2.md",
     "Leetcode/207. Course schedule.md",
+    "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Data Structures/Array.md",
     "Leetcode/994. Rotting oranges.md",
     "Leetcode/130. Surrounded regions.md",
@@ -165,7 +167,6 @@
     "Leetcode/104. Maximum depth of binary tree.md",
     "Leetcode/98. Validate binary search tree.md",
     "Data Structures/Binary Tree.md",
-    "Leetcode/22. Generate parantheses.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
@@ -174,7 +175,6 @@
     "Leetcode/ExplanationDiagrams/hare_and_tortoise.pdf.pdf",
     "Leetcode/ExplanationDiagrams",
     "Leetcode/untitled folder",
-    "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/delete_the_middle_node_of_a_linked_list.cpp",
-    "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/explanation.txt"
+    "Leetcode/2095_Delete_the_middle_node_of_a_linked_list/delete_the_middle_node_of_a_linked_list.cpp"
   ]
 }
