@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c401da4b1fb03b1",
+        "id": "57fc094b85f1e155",
         "type": "tabs",
         "children": [
           {
-            "id": "ebdb8f1175cc1d3c",
+            "id": "ada60a3c96a82775",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/18. 4Sum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/18. 4Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/18. 4Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/18. 4Sum.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebdb8f1175cc1d3c",
+  "active": "ada60a3c96a82775",
   "lastOpenFiles": [
+    "Leetcode/684.  Redundant connections.md",
+    "Algorithms/Union find.md",
     "Leetcode/18. 4Sum.md",
     "Leetcode/210. Course schedule 2.md",
     "Leetcode/207. Course schedule.md",
@@ -173,8 +167,6 @@
     "Leetcode/128. Longest consecutive sequence.md",
     "Leetcode/110. Balanced binary tree.md",
     "Leetcode/105. Construct binary tree from preorder and inorder traversal.md",
-    "Leetcode/104. Maximum depth of binary tree.md",
-    "Leetcode/98. Validate binary search tree.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
