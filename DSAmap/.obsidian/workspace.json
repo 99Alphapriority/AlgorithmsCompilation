@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6663d045f34de07e",
+        "id": "6c401da4b1fb03b1",
         "type": "tabs",
         "children": [
           {
-            "id": "e80e17d8d040fe74",
+            "id": "ebdb8f1175cc1d3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/18. 4Sum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/18. 4Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/18. 4Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/18. 4Sum.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e80e17d8d040fe74",
+  "active": "ebdb8f1175cc1d3c",
   "lastOpenFiles": [
+    "Leetcode/18. 4Sum.md",
     "Leetcode/210. Course schedule 2.md",
     "Leetcode/207. Course schedule.md",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
@@ -166,7 +175,6 @@
     "Leetcode/105. Construct binary tree from preorder and inorder traversal.md",
     "Leetcode/104. Maximum depth of binary tree.md",
     "Leetcode/98. Validate binary search tree.md",
-    "Data Structures/Binary Tree.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
