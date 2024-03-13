@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/3. Longest Substring without repeating characters.md",
+                "file": "Leetcode/567. Permutation in string.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/3. Longest Substring without repeating characters.md",
+                "file": "Leetcode/567. Permutation in string.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/3. Longest Substring without repeating characters.md",
+                "file": "Leetcode/567. Permutation in string.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/3. Longest Substring without repeating characters.md"
+                "file": "Leetcode/567. Permutation in string.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ada60a3c96a82775",
   "lastOpenFiles": [
-    "Leetcode/239. Sliding window maximum.md",
     "Leetcode/3. Longest Substring without repeating characters.md",
+    "Leetcode/567. Permutation in string.md",
+    "Leetcode/239. Sliding window maximum.md",
     "Algorithms/Monotonic Queue.md",
     "Data Structures/Queue.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
@@ -175,7 +176,6 @@
     "Leetcode/131. Palindrome partioning.md",
     "Leetcode/79. Word search.md",
     "Leetcode/40. Combination sum 2.md",
-    "Leetcode/78. Subsets.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",

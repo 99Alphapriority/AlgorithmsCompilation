@@ -5,7 +5,6 @@ Keeping a record of the explanations would help in going over the question faste
 
 Need to write explanation for the following questions:
 
-0003_Longest_substring_without_repeating_characters
 0004_Median_of_two_sorted_arrays
 0005_Longest_palindromic_string
 0006_Zigzag_conversion
