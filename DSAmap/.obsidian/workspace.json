@@ -11,8 +11,12 @@
             "id": "ebdae6c4786b7071",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/27. Remove element.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/27. Remove element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/27. Remove element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/27. Remove element.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "ebdae6c4786b7071",
   "lastOpenFiles": [
+    "Leetcode/27. Remove element.md",
     "Leetcode/239. Sliding window maximum.md",
     "Leetcode/26. Remove duplicate from sorted array.md",
     "Leetcode/567. Permutation in string.md",
@@ -167,7 +176,6 @@
     "Leetcode/36. Valid sudoku.md",
     "Leetcode/102. Binary tree level order traversal.md",
     "Leetcode/131. Palindrome partioning.md",
-    "Leetcode/79. Word search.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
