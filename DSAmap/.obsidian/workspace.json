@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "05e0a63aec2dafc7",
+        "id": "48e4df1eed318170",
         "type": "tabs",
         "children": [
           {
-            "id": "23add285b6ff50af",
+            "id": "1eaa7ad71722dd96",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23add285b6ff50af",
+  "active": "1eaa7ad71722dd96",
   "lastOpenFiles": [
+    "Leetcode/ExplanationDiagrams/1863. Sum of all subsets XOR totals.md",
+    "Leetcode/22. Generate parantheses.md",
     "Leetcode/94. Binary tree inorder traversal.md",
     "Leetcode/876. Middle of the linked list.md",
     "Leetcode/34. Find first and last position of element in sorted array.md",
@@ -166,8 +168,6 @@
     "Leetcode/417. Pacific Atlantic water flow.md",
     "Leetcode/133. Clone graph.md",
     "Data Structures/Graph.md",
-    "Leetcode/200. Number of islands.md",
-    "Leetcode/46. Permutations.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
