@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea9bb83167e6fa86",
+        "id": "05e0a63aec2dafc7",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f3ddfe04c593ce",
+            "id": "23add285b6ff50af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6f3ddfe04c593ce",
+  "active": "23add285b6ff50af",
   "lastOpenFiles": [
+    "Leetcode/94. Binary tree inorder traversal.md",
     "Leetcode/876. Middle of the linked list.md",
     "Leetcode/34. Find first and last position of element in sorted array.md",
     "Leetcode/32. Longest valid parantheses.md",
@@ -167,7 +168,6 @@
     "Data Structures/Graph.md",
     "Leetcode/200. Number of islands.md",
     "Leetcode/46. Permutations.md",
-    "Leetcode/90. Subsets 2.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
