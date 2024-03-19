@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2d190ce56f615ddf",
+        "id": "e98518f877b7ac78",
         "type": "tabs",
         "children": [
           {
-            "id": "fd86fa3fa3a8ce95",
+            "id": "47d30640a931eeea",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd86fa3fa3a8ce95",
+  "active": "47d30640a931eeea",
   "lastOpenFiles": [
+    "Leetcode/2044. Count number of maximum bitwise OR.md",
     "Leetcode/797. All paths from source to target.md",
     "Leetcode/257. Binary tree paths.md",
     "Leetcode/144. Binary tree preorder traversal.md",
@@ -167,7 +168,6 @@
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Data Structures/Array.md",
     "Leetcode/994. Rotting oranges.md",
-    "Leetcode/130. Surrounded regions.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
