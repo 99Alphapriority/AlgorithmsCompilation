@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e98518f877b7ac78",
+        "id": "a286d445604021a9",
         "type": "tabs",
         "children": [
           {
-            "id": "47d30640a931eeea",
+            "id": "8de1172da2deb88b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47d30640a931eeea",
+  "active": "8de1172da2deb88b",
   "lastOpenFiles": [
+    "Leetcode/30. Substring with concatenation of all words.md",
     "Leetcode/2044. Count number of maximum bitwise OR.md",
     "Leetcode/797. All paths from source to target.md",
     "Leetcode/257. Binary tree paths.md",
@@ -167,7 +168,6 @@
     "Leetcode/207. Course schedule.md",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Data Structures/Array.md",
-    "Leetcode/994. Rotting oranges.md",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
     "Leetcode/ExplanationDiagrams/preorder_and_inorder_traversal.pdf",
