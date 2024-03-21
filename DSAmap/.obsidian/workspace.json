@@ -11,8 +11,12 @@
             "id": "a523c050593dfcd3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/17. Letter combinations of a phone number.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/17. Letter combinations of a phone number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/17. Letter combinations of a phone number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/17. Letter combinations of a phone number.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "a523c050593dfcd3",
   "lastOpenFiles": [
+    "Leetcode/26. Remove duplicate from sorted array.md",
+    "Leetcode/17. Letter combinations of a phone number.md",
     "Leetcode/424. Longest repeating character replacement.md",
     "Leetcode/198. House robber.md",
     "Leetcode/187. Repeated DNA sequences.md",
@@ -158,7 +168,6 @@
     "Leetcode/28. Find the index of the first occurrence in a string.md",
     "Leetcode/27. Remove element.md",
     "Leetcode/239. Sliding window maximum.md",
-    "Leetcode/26. Remove duplicate from sorted array.md",
     "Leetcode/567. Permutation in string.md",
     "Leetcode/3. Longest Substring without repeating characters.md",
     "Algorithms/Monotonic Queue.md",
@@ -166,7 +175,6 @@
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/684.  Redundant connections.md",
     "Algorithms/Union find.md",
-    "Leetcode/18. 4Sum.md",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
