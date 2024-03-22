@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/17. Letter combinations of a phone number.md",
+                "file": "Leetcode/21. Merge two sorted lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/17. Letter combinations of a phone number.md",
+                "file": "Leetcode/21. Merge two sorted lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/17. Letter combinations of a phone number.md",
+                "file": "Leetcode/21. Merge two sorted lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/17. Letter combinations of a phone number.md"
+                "file": "Leetcode/21. Merge two sorted lists.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a523c050593dfcd3",
   "lastOpenFiles": [
-    "Leetcode/26. Remove duplicate from sorted array.md",
     "Leetcode/17. Letter combinations of a phone number.md",
+    "Leetcode/21. Merge two sorted lists.md",
+    "Leetcode/26. Remove duplicate from sorted array.md",
     "Leetcode/424. Longest repeating character replacement.md",
     "Leetcode/198. House robber.md",
     "Leetcode/187. Repeated DNA sequences.md",
@@ -174,7 +175,6 @@
     "Data Structures/Queue.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/684.  Redundant connections.md",
-    "Algorithms/Union find.md",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
