@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a286d445604021a9",
+        "id": "6e7d26210176d23d",
         "type": "tabs",
         "children": [
           {
-            "id": "a523c050593dfcd3",
+            "id": "1b72b94a9fe99b35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/23. Merge k sorted lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "755678da145d7df6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "755678da145d7df6",
+  "active": "1b72b94a9fe99b35",
   "lastOpenFiles": [
-    "Algorithms/Sorting.md",
     "Leetcode/23. Merge k sorted lists.md",
+    "Leetcode/35. Search insert position.md",
+    "Algorithms/Sorting.md",
     "Algorithms/merge sort.md",
     "Leetcode/21. Merge two sorted lists.md",
     "Leetcode/17. Letter combinations of a phone number.md",
@@ -178,7 +166,6 @@
     "Leetcode/27. Remove element.md",
     "Leetcode/239. Sliding window maximum.md",
     "Leetcode/567. Permutation in string.md",
-    "Leetcode/3. Longest Substring without repeating characters.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
