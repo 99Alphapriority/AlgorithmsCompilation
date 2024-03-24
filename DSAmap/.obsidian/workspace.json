@@ -11,8 +11,12 @@
             "id": "1b72b94a9fe99b35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/92. Reverse linked list 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/92. Reverse linked list 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/92. Reverse linked list 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/92. Reverse linked list 2.md"
+              }
             }
           }
         ]
@@ -140,8 +148,13 @@
   },
   "active": "1b72b94a9fe99b35",
   "lastOpenFiles": [
-    "Leetcode/23. Merge k sorted lists.md",
+    "Leetcode/141. Linked list cycle.md",
+    "Leetcode/92. Reverse linked list 2.md",
+    "Leetcode/28. Find the index of the first occurrence in a string.md",
+    "Leetcode/18. 4Sum.md",
     "Leetcode/35. Search insert position.md",
+    "Leetcode/2. Add two numbers.md",
+    "Leetcode/23. Merge k sorted lists.md",
     "Algorithms/Sorting.md",
     "Algorithms/merge sort.md",
     "Leetcode/21. Merge two sorted lists.md",
@@ -161,11 +174,6 @@
     "Leetcode/22. Generate parantheses.md",
     "Leetcode/876. Middle of the linked list.md",
     "Leetcode/34. Find first and last position of element in sorted array.md",
-    "Leetcode/32. Longest valid parantheses.md",
-    "Leetcode/28. Find the index of the first occurrence in a string.md",
-    "Leetcode/27. Remove element.md",
-    "Leetcode/239. Sliding window maximum.md",
-    "Leetcode/567. Permutation in string.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
