@@ -11,8 +11,12 @@
             "id": "1c2c425704466570",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/14. Longest common prefix.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/14. Longest common prefix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/14. Longest common prefix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/14. Longest common prefix.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "1c2c425704466570",
   "lastOpenFiles": [
+    "Leetcode/14. Longest common prefix.md",
     "Leetcode/37. Sudoku solver.md",
     "Leetcode/92. Reverse linked list 2.md",
     "Leetcode/141. Linked list cycle.md",
@@ -165,7 +174,6 @@
     "Leetcode/94. Binary tree inorder traversal.md",
     "Leetcode/ExplanationDiagrams/1863. Sum of all subsets XOR totals.md",
     "Leetcode/22. Generate parantheses.md",
-    "Leetcode/876. Middle of the linked list.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
