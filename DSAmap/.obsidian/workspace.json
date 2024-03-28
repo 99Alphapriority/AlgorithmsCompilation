@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/24. Swap nodes in pairs.md",
+                "file": "Leetcode/136. Single number.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/24. Swap nodes in pairs.md",
+                "file": "Leetcode/136. Single number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/24. Swap nodes in pairs.md",
+                "file": "Leetcode/136. Single number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/24. Swap nodes in pairs.md"
+                "file": "Leetcode/136. Single number.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0811d6dd51ce8016",
   "lastOpenFiles": [
-    "Leetcode/25.  Reverse nodes in k-group.md",
     "Leetcode/24. Swap nodes in pairs.md",
+    "Leetcode/136. Single number.md",
+    "Leetcode/25.  Reverse nodes in k-group.md",
     "Leetcode/ExplanationDiagrams/51. N-queens.md",
     "Leetcode/14. Longest common prefix.md",
     "Leetcode/37. Sudoku solver.md",
@@ -173,7 +174,6 @@
     "Leetcode/797. All paths from source to target.md",
     "Leetcode/257. Binary tree paths.md",
     "Leetcode/144. Binary tree preorder traversal.md",
-    "Leetcode/102. Binary tree level order traversal.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
