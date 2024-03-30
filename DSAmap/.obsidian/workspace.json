@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5225f70075aec779",
+        "id": "098a5d5f9d5fbd25",
         "type": "tabs",
         "children": [
           {
-            "id": "3f18c5bf62ccca61",
+            "id": "84c7837b7e82cef0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f18c5bf62ccca61",
+  "active": "84c7837b7e82cef0",
   "lastOpenFiles": [
+    "Leetcode/46. Permutations.md",
+    "Leetcode/76. Minimum window substring.md",
     "Leetcode/124. Binary tree maximum sum path.md",
     "Leetcode/136. Single number.md",
     "Leetcode/24. Swap nodes in pairs.md",
@@ -164,8 +166,6 @@
     "Leetcode/187. Repeated DNA sequences.md",
     "Leetcode/30. Substring with concatenation of all words.md",
     "Leetcode/2044. Count number of maximum bitwise OR.md",
-    "Leetcode/797. All paths from source to target.md",
-    "Leetcode/257. Binary tree paths.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
