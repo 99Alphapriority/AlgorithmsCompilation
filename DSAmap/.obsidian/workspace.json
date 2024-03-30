@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "171312eb0c447e5d",
+        "id": "5225f70075aec779",
         "type": "tabs",
         "children": [
           {
-            "id": "0811d6dd51ce8016",
+            "id": "3f18c5bf62ccca61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/136. Single number.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/136. Single number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/136. Single number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/136. Single number.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0811d6dd51ce8016",
+  "active": "3f18c5bf62ccca61",
   "lastOpenFiles": [
-    "Leetcode/24. Swap nodes in pairs.md",
+    "Leetcode/124. Binary tree maximum sum path.md",
     "Leetcode/136. Single number.md",
+    "Leetcode/24. Swap nodes in pairs.md",
     "Leetcode/25.  Reverse nodes in k-group.md",
     "Leetcode/ExplanationDiagrams/51. N-queens.md",
     "Leetcode/14. Longest common prefix.md",
@@ -173,7 +166,6 @@
     "Leetcode/2044. Count number of maximum bitwise OR.md",
     "Leetcode/797. All paths from source to target.md",
     "Leetcode/257. Binary tree paths.md",
-    "Leetcode/144. Binary tree preorder traversal.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
