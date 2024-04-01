@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b25f847833366c7",
+        "id": "726154e3961c9ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b4a2dc53b4c5942",
+            "id": "f9370ad0d4bbd3ab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b4a2dc53b4c5942",
+  "active": "f9370ad0d4bbd3ab",
   "lastOpenFiles": [
+    "Leetcode/211. Design add and search words data structure.md",
     "Leetcode/208. Implement trie.md",
     "Data Structures/trie.md",
     "Leetcode/46. Permutations.md",
@@ -165,7 +166,6 @@
     "Leetcode/26. Remove duplicate from sorted array.md",
     "Leetcode/424. Longest repeating character replacement.md",
     "Leetcode/198. House robber.md",
-    "Leetcode/187. Repeated DNA sequences.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
