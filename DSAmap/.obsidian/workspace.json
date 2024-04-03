@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/215. Kth largest element in an array.md",
+                "file": "Leetcode/1046. Last stone weight.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/215. Kth largest element in an array.md",
+                "file": "Leetcode/1046. Last stone weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/215. Kth largest element in an array.md",
+                "file": "Leetcode/1046. Last stone weight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/215. Kth largest element in an array.md"
+                "file": "Leetcode/1046. Last stone weight.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f9370ad0d4bbd3ab",
   "lastOpenFiles": [
-    "Leetcode/703. Kth largest element in a stream.md",
     "Leetcode/215. Kth largest element in an array.md",
+    "Leetcode/1046. Last stone weight.md",
+    "Leetcode/703. Kth largest element in a stream.md",
     "Leetcode/746. Min cost climbing stairs.md",
     "Leetcode/208. Implement trie.md",
     "Leetcode/211. Design add and search words data structure.md",
@@ -173,7 +174,6 @@
     "Leetcode/18. 4Sum.md",
     "Leetcode/35. Search insert position.md",
     "Leetcode/2. Add two numbers.md",
-    "Leetcode/23. Merge k sorted lists.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
