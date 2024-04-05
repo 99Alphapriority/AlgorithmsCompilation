@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/621. Task scheduler.md",
+                "file": "Leetcode/355. Design twitter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/621. Task scheduler.md",
+                "file": "Leetcode/355. Design twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/621. Task scheduler.md",
+                "file": "Leetcode/355. Design twitter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/621. Task scheduler.md"
+                "file": "Leetcode/355. Design twitter.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f9370ad0d4bbd3ab",
   "lastOpenFiles": [
-    "Leetcode/973. K closest points to origin.md",
     "Leetcode/621. Task scheduler.md",
+    "Leetcode/355. Design twitter.md",
+    "Leetcode/973. K closest points to origin.md",
     "Leetcode/1046. Last stone weight.md",
     "Leetcode/215. Kth largest element in an array.md",
     "Leetcode/703. Kth largest element in a stream.md",
@@ -173,7 +174,6 @@
     "Leetcode/92. Reverse linked list 2.md",
     "Leetcode/141. Linked list cycle.md",
     "Leetcode/28. Find the index of the first occurrence in a string.md",
-    "Leetcode/18. 4Sum.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
