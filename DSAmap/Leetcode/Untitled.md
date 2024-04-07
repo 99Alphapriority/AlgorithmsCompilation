@@ -1,0 +1,18 @@
+1. Calculate the amount of money that can be stolen in 2 ranges. In range 1, the robber can steal from the first house but not the last house. In range 2, the robber can steal from the last house but not from the first house.
+```cpp
+	int range1 = robber(nums, 0, n - 2);
+	int range2 = robber(nums, 1, n - 1);
+```
+2. Iterate through the given `nums` array. 
+3. Use 3 variables to keep track of the money. Use `next` to store the max value if the robber decides to steal or skip
+```cpp
+	next = max(prev + nums[i], curr);
+```
+4. Use `prev` to store the amount of money stolen till the previous house.
+5. Use `curr` to store the amount of money stolen till the current house.
+
+##### Topics:
+[[Dynamic Programming]] [[Array]]
+
+##### Tags:
+#medium 
