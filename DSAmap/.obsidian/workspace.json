@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Untitled.md",
+                "file": "Leetcode/322. Coin change.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Untitled.md",
+                "file": "Leetcode/322. Coin change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Untitled.md",
+                "file": "Leetcode/322. Coin change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Untitled.md"
+                "file": "Leetcode/322. Coin change.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f9370ad0d4bbd3ab",
   "lastOpenFiles": [
+    "Leetcode/213. House robber 2.md",
+    "Leetcode/322. Coin change.md",
     "Leetcode/127. Word ladder.md",
-    "Leetcode/Untitled.md",
     "Leetcode/295. Find median from data stream.md",
     "Leetcode/355. Design twitter.md",
     "Leetcode/621. Task scheduler.md",
@@ -173,7 +174,6 @@
     "Leetcode/25.  Reverse nodes in k-group.md",
     "Leetcode/ExplanationDiagrams/51. N-queens.md",
     "Leetcode/14. Longest common prefix.md",
-    "Leetcode/37. Sudoku solver.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
