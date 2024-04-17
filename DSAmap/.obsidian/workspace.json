@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0822e307d09cc9",
+        "id": "9ba28281f3fd347b",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf0629446ba8e6d",
+            "id": "3b4113b835415a68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/57. Insert interval.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/57. Insert interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/57. Insert interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/57. Insert interval.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bf0629446ba8e6d",
+  "active": "3b4113b835415a68",
   "lastOpenFiles": [
-    "Leetcode/416. Partition equal subset sum.md",
+    "Leetcode/56. Merge intervals.md",
     "Leetcode/57. Insert interval.md",
+    "Leetcode/416. Partition equal subset sum.md",
     "Leetcode/300. Longest increasing subsequence.md",
     "Leetcode/392. Is subsequence.md",
     "Leetcode/139. Word break.md",
@@ -173,7 +166,6 @@
     "Data Structures/trie.md",
     "Leetcode/46. Permutations.md",
     "Leetcode/76. Minimum window substring.md",
-    "Leetcode/124. Binary tree maximum sum path.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
