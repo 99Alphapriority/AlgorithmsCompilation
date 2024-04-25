@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa391229ad3920d",
+        "id": "8a41658d39d8082a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb4eeb89d220e921",
+            "id": "132af4a22369f4bb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb4eeb89d220e921",
+  "active": "132af4a22369f4bb",
   "lastOpenFiles": [
+    "Leetcode/678. Valid parenthesis string.md",
     "Leetcode/763. Partition labels.md",
     "Leetcode/1899. Merge triplets to form target triplet.md",
     "Leetcode/37. Sudoku solver.md",
@@ -165,7 +166,6 @@
     "Leetcode/1046. Last stone weight.md",
     "Leetcode/215. Kth largest element in an array.md",
     "Leetcode/703. Kth largest element in a stream.md",
-    "Leetcode/746. Min cost climbing stairs.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
