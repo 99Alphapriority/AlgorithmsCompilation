@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9ba28281f3fd347b",
+        "id": "cfa391229ad3920d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4113b835415a68",
+            "id": "eb4eeb89d220e921",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1899. Merge triplets to form target triplet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/1899. Merge triplets to form target triplet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/1899. Merge triplets to form target triplet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/1899. Merge triplets to form target triplet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b4113b835415a68",
+  "active": "eb4eeb89d220e921",
   "lastOpenFiles": [
-    "Leetcode/37. Sudoku solver.md",
+    "Leetcode/763. Partition labels.md",
     "Leetcode/1899. Merge triplets to form target triplet.md",
+    "Leetcode/37. Sudoku solver.md",
     "Leetcode/846. Hand of straights.md",
     "Leetcode/134. Gas station.md",
     "Leetcode/55. Jump game.md",
@@ -173,7 +166,6 @@
     "Leetcode/215. Kth largest element in an array.md",
     "Leetcode/703. Kth largest element in a stream.md",
     "Leetcode/746. Min cost climbing stairs.md",
-    "Leetcode/208. Implement trie.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
