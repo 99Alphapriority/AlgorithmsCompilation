@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/846. Hand of straights.md",
+                "file": "Leetcode/1899. Merge triplets to form target triplet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/846. Hand of straights.md",
+                "file": "Leetcode/1899. Merge triplets to form target triplet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/846. Hand of straights.md",
+                "file": "Leetcode/1899. Merge triplets to form target triplet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/846. Hand of straights.md"
+                "file": "Leetcode/1899. Merge triplets to form target triplet.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "3b4113b835415a68",
   "lastOpenFiles": [
-    "Leetcode/134. Gas station.md",
+    "Leetcode/37. Sudoku solver.md",
+    "Leetcode/1899. Merge triplets to form target triplet.md",
     "Leetcode/846. Hand of straights.md",
+    "Leetcode/134. Gas station.md",
     "Leetcode/55. Jump game.md",
     "Leetcode/1851. Minimum interval to include each query.md",
     "Leetcode/463. Island perimeter.md",
@@ -172,8 +174,6 @@
     "Leetcode/703. Kth largest element in a stream.md",
     "Leetcode/746. Min cost climbing stairs.md",
     "Leetcode/208. Implement trie.md",
-    "Leetcode/211. Design add and search words data structure.md",
-    "Leetcode/212. Word search 2.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
