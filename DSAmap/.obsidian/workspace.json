@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/787. Cheapest flights within K stops.md",
+                "file": "Leetcode/332. Reconstruct itinerary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/787. Cheapest flights within K stops.md",
+                "file": "Leetcode/332. Reconstruct itinerary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/787. Cheapest flights within K stops.md",
+                "file": "Leetcode/332. Reconstruct itinerary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/787. Cheapest flights within K stops.md"
+                "file": "Leetcode/332. Reconstruct itinerary.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "40ccc8843581e83b",
   "lastOpenFiles": [
     "Leetcode/787. Cheapest flights within K stops.md",
+    "Leetcode/332. Reconstruct itinerary.md",
     "Data Structures/Array.md",
     "Leetcode/743. Network delay time.md",
     "Leetcode/51. N-queens.md",
@@ -175,7 +176,6 @@
     "Leetcode/139. Word break.md",
     "Leetcode/322. Coin change.md",
     "Leetcode/213. House robber 2.md",
-    "Leetcode/127. Word ladder.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
