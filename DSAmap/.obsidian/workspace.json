@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/778. Swim in rising water.md",
+                "file": "Leetcode/62. Unique paths.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/778. Swim in rising water.md",
+                "file": "Leetcode/62. Unique paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/778. Swim in rising water.md",
+                "file": "Leetcode/62. Unique paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/778. Swim in rising water.md"
+                "file": "Leetcode/62. Unique paths.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "40ccc8843581e83b",
   "lastOpenFiles": [
-    "Leetcode/332. Reconstruct itinerary.md",
     "Leetcode/778. Swim in rising water.md",
+    "Leetcode/62. Unique paths.md",
+    "Leetcode/332. Reconstruct itinerary.md",
     "Leetcode/Untitled",
     "Leetcode/787. Cheapest flights within K stops.md",
     "Data Structures/Array.md",
@@ -176,7 +177,6 @@
     "Leetcode/300. Longest increasing subsequence.md",
     "Leetcode/392. Is subsequence.md",
     "Leetcode/139. Word break.md",
-    "Leetcode/322. Coin change.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
