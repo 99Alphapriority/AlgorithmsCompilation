@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/309. Best time to buy and sell stock with cooldown.md",
+                "file": "Leetcode/2816. Double a number represented as a linked list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/309. Best time to buy and sell stock with cooldown.md",
+                "file": "Leetcode/2816. Double a number represented as a linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/309. Best time to buy and sell stock with cooldown.md",
+                "file": "Leetcode/2816. Double a number represented as a linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/309. Best time to buy and sell stock with cooldown.md"
+                "file": "Leetcode/2816. Double a number represented as a linked list.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "3ffeacc0998dd395",
   "lastOpenFiles": [
     "Leetcode/309. Best time to buy and sell stock with cooldown.md",
+    "Leetcode/2816. Double a number represented as a linked list.md",
     "Leetcode/10. regular expression matching.md",
     "Leetcode/115. Distinct subsequences.md",
     "Leetcode/329. Longest increasing path in the matrix.md",
@@ -176,7 +177,6 @@
     "Leetcode/134. Gas station.md",
     "Leetcode/55. Jump game.md",
     "Leetcode/1851. Minimum interval to include each query.md",
-    "Leetcode/463. Island perimeter.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
