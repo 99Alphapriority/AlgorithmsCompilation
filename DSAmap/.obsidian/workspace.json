@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/10. regular expression matching.md",
+                "file": "Leetcode/2707. Extra characters in a string.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/10. regular expression matching.md",
+                "file": "Leetcode/2707. Extra characters in a string.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/10. regular expression matching.md",
+                "file": "Leetcode/2707. Extra characters in a string.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/10. regular expression matching.md"
+                "file": "Leetcode/2707. Extra characters in a string.md"
               }
             }
           }
@@ -160,12 +160,13 @@
   },
   "active": "3ffeacc0998dd395",
   "lastOpenFiles": [
+    "Leetcode/10. regular expression matching.md",
+    "Leetcode/2707. Extra characters in a string.md",
     "Leetcode/258. Add digits.md",
     "Leetcode/202. Happy number.md",
     "Leetcode/1. Two sum.md",
     "Leetcode/2816. Double a number represented as a linked list.md",
     "Leetcode/309. Best time to buy and sell stock with cooldown.md",
-    "Leetcode/10. regular expression matching.md",
     "Leetcode/115. Distinct subsequences.md",
     "Leetcode/329. Longest increasing path in the matrix.md",
     "Leetcode/97. Interleaving strings.md",
@@ -188,7 +189,6 @@
     "Leetcode/763. Partition labels.md",
     "Leetcode/1899. Merge triplets to form target triplet.md",
     "Leetcode/37. Sudoku solver.md",
-    "Leetcode/846. Hand of straights.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
