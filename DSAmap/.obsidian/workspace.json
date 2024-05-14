@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c9714e58666fc51",
+        "id": "2f01ae07a90a06c1",
         "type": "tabs",
         "children": [
           {
-            "id": "3ffeacc0998dd395",
+            "id": "2e867737b445597c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/2707. Extra characters in a string.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6dc2d5fe6432647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1. Two sum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/2707. Extra characters in a string.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/2707. Extra characters in a string.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/2707. Extra characters in a string.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,13 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ffeacc0998dd395",
+  "active": "2e867737b445597c",
   "lastOpenFiles": [
-    "Leetcode/10. regular expression matching.md",
+    "Leetcode/1. Two sum.md",
+    "Leetcode/701. Insert into a binary search tree.md",
     "Leetcode/2707. Extra characters in a string.md",
+    "Leetcode/10. regular expression matching.md",
     "Leetcode/258. Add digits.md",
     "Leetcode/202. Happy number.md",
-    "Leetcode/1. Two sum.md",
     "Leetcode/2816. Double a number represented as a linked list.md",
     "Leetcode/309. Best time to buy and sell stock with cooldown.md",
     "Leetcode/115. Distinct subsequences.md",
@@ -188,7 +169,6 @@
     "Leetcode/678. Valid parenthesis string.md",
     "Leetcode/763. Partition labels.md",
     "Leetcode/1899. Merge triplets to form target triplet.md",
-    "Leetcode/37. Sudoku solver.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
