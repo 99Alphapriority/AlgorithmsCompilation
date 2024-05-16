@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/450. Delete node in a BST.md",
+                "file": "Leetcode/1905. Count sub islands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/450. Delete node in a BST.md",
+                "file": "Leetcode/1905. Count sub islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/450. Delete node in a BST.md",
+                "file": "Leetcode/1905. Count sub islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/450. Delete node in a BST.md"
+                "file": "Leetcode/1905. Count sub islands.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "2e867737b445597c",
   "lastOpenFiles": [
     "Leetcode/450. Delete node in a BST.md",
+    "Leetcode/1905. Count sub islands.md",
     "Leetcode/1. Two sum.md",
     "Leetcode/701. Insert into a binary search tree.md",
     "Leetcode/2707. Extra characters in a string.md",
@@ -176,7 +177,6 @@
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/45. Jump game 2.md",
     "Leetcode/678. Valid parenthesis string.md",
-    "Leetcode/763. Partition labels.md",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
     "Leetcode/ExplanationDiagrams/subset_backtracking.pdf",
