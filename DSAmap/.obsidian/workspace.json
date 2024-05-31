@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/1404. Number of steps to reduce a number in binary representation to one.md",
+                "file": "Leetcode/61. Rotate linked list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/1404. Number of steps to reduce a number in binary representation to one.md",
+                "file": "Leetcode/61. Rotate linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/1404. Number of steps to reduce a number in binary representation to one.md",
+                "file": "Leetcode/61. Rotate linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/1404. Number of steps to reduce a number in binary representation to one.md"
+                "file": "Leetcode/61. Rotate linked list.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "2e867737b445597c",
   "lastOpenFiles": [
-    "Leetcode/120. Triangle.md",
     "Leetcode/1404. Number of steps to reduce a number in binary representation to one.md",
+    "Leetcode/61. Rotate linked list.md",
+    "Leetcode/120. Triangle.md",
     "Leetcode/1443. Minimum time to collect all apples in the tree.md",
     "Leetcode/1905. Count sub islands.md",
     "Leetcode/450. Delete node in a BST.md",
@@ -175,7 +176,6 @@
     "Leetcode/743. Network delay time.md",
     "Leetcode/51. N-queens.md",
     "Leetcode/ExplanationDiagrams/1584_adj_list.pdf",
-    "Leetcode/1584. Min cost to connect all points.md",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
     "Leetcode/ExplanationDiagrams/combination_sum.pdf",
