@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/1092. Shortest common supersequence.md",
+                "file": "Leetcode/516. Longest palindromic subsequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/1092. Shortest common supersequence.md",
+                "file": "Leetcode/516. Longest palindromic subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/1092. Shortest common supersequence.md",
+                "file": "Leetcode/516. Longest palindromic subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/1092. Shortest common supersequence.md"
+                "file": "Leetcode/516. Longest palindromic subsequence.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "9be92d20f983125d",
   "lastOpenFiles": [
     "Leetcode/1092. Shortest common supersequence.md",
+    "Leetcode/516. Longest palindromic subsequence.md",
     "Leetcode/712. Minimum ASCII delete sum for two strings.md",
     "Leetcode/75. Sort colors.md",
     "Leetcode/778. Swim in rising water.md",
@@ -173,7 +174,6 @@
     "Leetcode/72. Edit distance.md",
     "Leetcode/518. Coin change 2.md",
     "Leetcode/62. Unique paths.md",
-    "Leetcode/332. Reconstruct itinerary.md",
     "Leetcode/Untitled",
     "Leetcode/ExplanationDiagrams/1584_adj_list.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
