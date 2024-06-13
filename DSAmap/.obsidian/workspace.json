@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2f01ae07a90a06c1",
+        "id": "141e5abc1e0e68d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2e867737b445597c",
+            "id": "9be92d20f983125d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/75. Sort colors.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/75. Sort colors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/75. Sort colors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/75. Sort colors.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e867737b445597c",
+  "active": "9be92d20f983125d",
   "lastOpenFiles": [
-    "Leetcode/778. Swim in rising water.md",
+    "Leetcode/712. Minimum ASCII delete sum for two strings.md",
     "Leetcode/75. Sort colors.md",
+    "Leetcode/778. Swim in rising water.md",
     "Leetcode/1143. Longest common subsequence.md",
     "Leetcode/61. Rotate linked list.md",
     "Leetcode/1404. Number of steps to reduce a number in binary representation to one.md",
@@ -174,7 +167,6 @@
     "Leetcode/332. Reconstruct itinerary.md",
     "Leetcode/Untitled",
     "Leetcode/787. Cheapest flights within K stops.md",
-    "Data Structures/Array.md",
     "Leetcode/ExplanationDiagrams/1584_adj_list.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
