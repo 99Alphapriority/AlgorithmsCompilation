@@ -11,8 +11,12 @@
             "id": "9be92d20f983125d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/1092. Shortest common supersequence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/1092. Shortest common supersequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/1092. Shortest common supersequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/1092. Shortest common supersequence.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "9be92d20f983125d",
   "lastOpenFiles": [
+    "Leetcode/1092. Shortest common supersequence.md",
     "Leetcode/712. Minimum ASCII delete sum for two strings.md",
     "Leetcode/75. Sort colors.md",
     "Leetcode/778. Swim in rising water.md",
@@ -166,7 +175,6 @@
     "Leetcode/62. Unique paths.md",
     "Leetcode/332. Reconstruct itinerary.md",
     "Leetcode/Untitled",
-    "Leetcode/787. Cheapest flights within K stops.md",
     "Leetcode/ExplanationDiagrams/1584_adj_list.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
     "Leetcode/ExplanationDiagrams/sliding_window_max.pdf",
