@@ -23,8 +23,12 @@
             "id": "dcf1f39b12977491",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/1052. Grumpy Bookstore Owner.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -78,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "right": {
     "id": "eaf2c58443685d41",
@@ -95,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/1052. Grumpy Bookstore Owner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/1052. Grumpy Bookstore Owner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/1052. Grumpy Bookstore Owner.md"
+              }
             }
           }
         ]
@@ -154,6 +161,7 @@
   },
   "active": "dcf1f39b12977491",
   "lastOpenFiles": [
+    "Leetcode/1052. Grumpy Bookstore Owner.md",
     "Leetcode/516. Longest palindromic subsequence.md",
     "Leetcode/1092. Shortest common supersequence.md",
     "Leetcode/712. Minimum ASCII delete sum for two strings.md",
@@ -179,7 +187,6 @@
     "Leetcode/97. Interleaving strings.md",
     "Leetcode/72. Edit distance.md",
     "Leetcode/518. Coin change 2.md",
-    "Leetcode/62. Unique paths.md",
     "Leetcode/Untitled",
     "Leetcode/ExplanationDiagrams/1584_adj_list.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
