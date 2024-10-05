@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "141e5abc1e0e68d8",
+        "id": "57949d66bc7a7995",
         "type": "tabs",
         "children": [
           {
-            "id": "9be92d20f983125d",
+            "id": "bf4aae9d6eec4df2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/516. Longest palindromic subsequence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcf1f39b12977491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1052. Grumpy Bookstore Owner.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/1052. Grumpy Bookstore Owner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/1052. Grumpy Bookstore Owner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leetcode/1052. Grumpy Bookstore Owner.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcf1f39b12977491",
+  "active": "bf4aae9d6eec4df2",
   "lastOpenFiles": [
-    "Leetcode/1052. Grumpy Bookstore Owner.md",
     "Leetcode/516. Longest palindromic subsequence.md",
+    "Leetcode/93. Restore IP address.md",
+    "Leetcode/1052. Grumpy Bookstore Owner.md",
     "Leetcode/1092. Shortest common supersequence.md",
     "Leetcode/712. Minimum ASCII delete sum for two strings.md",
     "Leetcode/75. Sort colors.md",
@@ -186,7 +166,6 @@
     "Leetcode/329. Longest increasing path in the matrix.md",
     "Leetcode/97. Interleaving strings.md",
     "Leetcode/72. Edit distance.md",
-    "Leetcode/518. Coin change 2.md",
     "Leetcode/Untitled",
     "Leetcode/ExplanationDiagrams/1584_adj_list.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
