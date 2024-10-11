@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/962. Maximum width ramp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "191c8a9331d86a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1. Two sum.md",
+                "file": "Leetcode/840. Magic squares in grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/962. Maximum width ramp.md",
+                "file": "Leetcode/840. Magic squares in grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/962. Maximum width ramp.md",
+                "file": "Leetcode/840. Magic squares in grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/962. Maximum width ramp.md"
+                "file": "Leetcode/840. Magic squares in grid.md"
               }
             }
           }
@@ -160,8 +148,9 @@
   },
   "active": "bf4aae9d6eec4df2",
   "lastOpenFiles": [
-    "Leetcode/1. Two sum.md",
     "Leetcode/962. Maximum width ramp.md",
+    "Leetcode/840. Magic squares in grid.md",
+    "Leetcode/1. Two sum.md",
     "Leetcode/516. Longest palindromic subsequence.md",
     "Leetcode/93. Restore IP address.md",
     "Leetcode/1052. Grumpy Bookstore Owner.md",
@@ -185,7 +174,6 @@
     "Leetcode/309. Best time to buy and sell stock with cooldown.md",
     "Leetcode/115. Distinct subsequences.md",
     "Leetcode/329. Longest increasing path in the matrix.md",
-    "Leetcode/97. Interleaving strings.md",
     "Leetcode/Untitled",
     "Leetcode/ExplanationDiagrams/1584_adj_list.pdf",
     "Leetcode/ExplanationDiagrams/course_schedule.pdf",
